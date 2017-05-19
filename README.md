@@ -1,9 +1,9 @@
 # To start an application: 
-- clone repository on your machine
-- cd mean-image-app
-- npm install
-- node server.js
-- server will be running on http://localhost:3000
+1 clone repository on your machine `git clone https://github.com/OlegPavlyuk/mean-image-app.git`
+2 change directory to mean-image-app `cd mean-image-app`
+3 Enter `npm install`
+4 Run the server `node server.js`
+5 server will be running on http://localhost:3000
 
 # ImageApp
 
