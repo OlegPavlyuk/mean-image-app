@@ -1,6 +1,7 @@
 #To start an application: 
 - clone repository on your machine
 - cd mean-image-app
+- npm install
 - node server.js
 - server will be running on http://localhost:3000
 
