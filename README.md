@@ -1,4 +1,4 @@
-#To start an application: 
+# To start an application: 
 - clone repository on your machine
 - cd mean-image-app
 - npm install
