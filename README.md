@@ -1,3 +1,9 @@
+#To start an application: 
+- clone repository on your machine
+- cd mean-image-app
+- node server.js
+- server will be running on http://localhost:3000
+
 # ImageApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.3.
